@@ -1,6 +1,7 @@
 {
 	"image": "imagens/photo.jpg",
-	"description": "Voce esta ouvindo a radio <strong>Satcast</strong> Fm a mais toca na Cidade 104.9&nbsp;",
+	"name": "FM ",
+	"description": "<strong>A MAIS TOCADA !</strong>",
 	"twitter": "https://twitter.com/RealGrumpyCat",
 	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
 	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat"
